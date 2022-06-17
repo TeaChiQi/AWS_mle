@@ -1,0 +1,26 @@
+parameter_tuning
+
+1. Scikit-learn has several options for hyperparameter tuning in their documentation.
+https://scikit-learn.org/stable/modules/classes.html#hyper-parameter-optimizers
+2. Scikit-learn also has a great article on their site about tuning: Tuning the hyper-parameters of an estimator
+https://scikit-learn.org/stable/modules/grid_search.html
+3. Hyperparameter search is not limited to the two mentioned in the video. For additional information check out: Hyperparameter Tuning in Python: a Complete Guide 2021
+https://neptune.ai/blog/hyperparameter-tuning-in-python-complete-guide
+
+MLOPS
+https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/
+
+
+LR
+https://scikit-learn.org/stable/modules/linear_model.html
+https://docs.aws.amazon.com/sagemaker/latest/dg/linear-learner.html
+
+
+Tree
+https://scikit-learn.org/stable/modules/tree.html#tree
+https://scikit-learn.org/stable/modules/ensemble.html#forests-of-randomized-trees
+https://en.wikipedia.org/wiki/Hierarchical_clustering
+https://scikit-learn.org/stable/modules/classes.html#module-sklearn.feature_selection
+
+https://xgboost.readthedocs.io/en/latest/get_started.html
+https://arxiv.org/abs/1603.02754
